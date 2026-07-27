@@ -1,4 +1,3 @@
-# docker-flask-app
 # Dockerized Flask Application
 
 ## Objective
